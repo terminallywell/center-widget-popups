@@ -1,0 +1,22 @@
+{
+    "KPackageStructure": "KWin/Script",
+    "KPlugin": {
+        "Name": "Center Widget Popups",
+        "Description": "Horizontally centers Plasma widget popups that open from a user-defined range of the screen",
+        "Authors": [
+            {
+                "Name": "Brian Cho",
+                "Website": "https://github.com/terminallywell"
+            }
+        ],
+        "Website": "https://github.com/terminallywell/center-widget-popups",
+        "BugReportUrl": "https://github.com/terminallywell/center-widget-popups/issues",
+        "EnabledByDefault": false,
+        "Id": "center-widget-popups",
+        "License": "MIT",
+        "Version": "1.0"
+    },
+    "X-Plasma-API": "javascript",
+    "X-Plasma-MainScript": "code/main.js",
+    "X-KDE-ConfigModule": "kwin/effects/configs/kcm_kwin4_genericscripted"
+}

@@ -24,7 +24,3 @@ To uninstall, remove it from the same KWin Scripts page.
 - The script detects popups by screen position; any popup that opens from within the range is centered.
 - Only the horizontal position changes.
 - Untested with vertical panels and multiple monitors.
-
-## License
-
-[MIT](LICENSE)

@@ -1,7 +1,7 @@
 # Center Widget Popups
 
 [![KDE Store](https://img.shields.io/badge/KDE_Store-download-blue?logo=kde&logoColor=white)](https://store.kde.org/p/2380048)
-[![GitHub release](https://img.shields.io/github/v/release/terminallywell/center-widget-popups?color=limegreen)](https://github.com/terminallywell/center-widget-popups/releases/latest)
+[![GitHub release](https://img.shields.io/github/v/release/terminallywell/center-widget-popups?logo=github&color=limegreen)](https://github.com/terminallywell/center-widget-popups/releases/latest)
 
 A KWin script for KDE Plasma 6 that horizontally centers any widget popup (e.g. Application Launcher) that opens within a user-defined horizontal range of the screen (default: 25%–50% from the left edge). Popups opening elsewhere stay where Plasma put them.
 
